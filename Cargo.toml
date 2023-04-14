@@ -1,5 +1,5 @@
 [package]
-name = "discordBOT-API"
+name = "discord_bot-api"
 version = "0.1.0"
 authors = ["Raise-NCCR <raise1229@gmail.com>"]
 edition = "2018"

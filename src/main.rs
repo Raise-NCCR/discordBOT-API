@@ -9,7 +9,7 @@ async fn main() -> Result<(), actix_web::Error> {
     Ok(())
 }
 
-#[get("/BOT-api")]
+#[get("/bot-api")]
 async fn index() -> Result<HttpResponse, actix_web::Error> {
     let response_body = "Hello World";
     Ok(HttpResponse::Ok().body(response_body))
