@@ -16,3 +16,4 @@ https://nixos.org/download.html を参照
 ・実行  
 `cargo run`  
 
+実行するとlocalhost:8080/bot-apiで"hello world"が返ってくる
