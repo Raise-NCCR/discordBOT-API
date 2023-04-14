@@ -1,5 +1,7 @@
 # discordBOT-API
 Discord のボット用APIをNixとRustを用いて作ろうということでやっているもの  
+WalicaのDiscordボット版を作ろうかと考えている  
+https://walica.jp/  
   
 ビルド方法  
 ・Nix のインストール  
